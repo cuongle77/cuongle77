@@ -1,8 +1,6 @@
-<h3 align="center">Hi there 👋</h3>
+<h1 align="center">Hi there 👋</h1>
 
- <p>I'm Le Trung Cuong - Lee</p>
-
-<hr />
+<p align="center">I'm Le Trung Cuong - Lee</p>
 
 <p align="center">A passionate frontend developer from Vietnamese</p>
 
