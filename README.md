@@ -1,7 +1,6 @@
-<h3 align="center">
-  <p>Hi there 👋</p>
-  <p>I'm Le Trung Cuong - Lee</p>
-</h3>
+<h3 align="center">Hi there 👋</h3>
+
+ <p>I'm Le Trung Cuong - Lee</p>
 
 <hr />
 
